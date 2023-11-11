@@ -4,12 +4,7 @@
             "type": "nine_slice",
             "width": 200,
             "height": 20,
-            "border": {
-                "left": 12,
-                "top": 1,
-                "right": 1,
-                "bottom": 3
-            }
+            "border": 1
         }
     }
 }
