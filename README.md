@@ -2,12 +2,13 @@
 
 Restyles various GUI elements including the in-game HUD. Features occasional plants.
 
-Provides support for the following mods:
+Provides support/compatibility for the following mods:
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
 - [EMI](https://modrinth.com/mod/emi)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [Figura](https://modrinth.com/mod/figura)
+- [Gamma Utils](https://modrinth.com/mod/gamma-utils)
 - [Iris](https://modrinth.com/mod/iris)
 - [ItemSwapper](https://modrinth.com/plugin/itemswapper)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
