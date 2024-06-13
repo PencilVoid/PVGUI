@@ -5,6 +5,7 @@ Restyles various GUI elements including the in-game HUD. Features occasional pla
 Provides support/compatibility for the following mods:
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
+- [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [EMI](https://modrinth.com/mod/emi)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [Figura](https://modrinth.com/mod/figura)
