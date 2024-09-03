@@ -1,5 +1,9 @@
 # PVGUI
 
+Version 0.1.3 for 1.20.2+
+
+---
+
 Restyles various GUI elements including the in-game HUD. Features occasional plants.
 
 Provides support/compatibility for the following mods:
