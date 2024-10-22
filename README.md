@@ -36,4 +36,5 @@ Recommended for use alongside this resource pack:
 - [Geometric Font 2](https://modrinth.com/resourcepack/geometric-font-2)
 - [Lithos:Font](https://modrinth.com/resourcepack/lithosfont)
 
-![2024-02-27_14 47 40](https://github.com/PencilVoid/PVGUI/assets/83508866/2437ec9b-1550-436f-a35e-42d1ea0b296b)
+![pvgui_showcase_hud](https://github.com/user-attachments/assets/28cf4f3e-0275-4eac-857d-fd3232a6a5bb)
+
