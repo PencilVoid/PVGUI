@@ -1,6 +1,6 @@
 # PVGUI
 
-Version 0.1.3 for 1.20.2+
+Version 0.1.4 for 1.20.2+
 
 ---
 
@@ -37,4 +37,3 @@ Recommended for use alongside this resource pack:
 - [Lithos:Font](https://modrinth.com/resourcepack/lithosfont)
 
 ![pvgui_showcase_hud](https://github.com/user-attachments/assets/28cf4f3e-0275-4eac-857d-fd3232a6a5bb)
-
