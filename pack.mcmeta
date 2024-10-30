@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 42,
+		"pack_format": 43,
 		"supported_formats": [16,42],
 		"description": "Created by PencilVoid"
 	},
@@ -9,6 +9,10 @@
 			{
 				"formats": [16,27],
 				"directory": "overlay_pre_1.20.5_ui"
+			},
+			{
+				"formats": [16,42],
+				"directory": "overlay_pre_24w44a_empty_slots"
 			}
 		]
 	}
