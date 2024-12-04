@@ -1,7 +1,7 @@
 {
 	"pack": {
-		"pack_format": 43,
-		"supported_formats": [16,42],
+		"pack_format": 46,
+		"supported_formats": [16,46],
 		"description": "Created by PencilVoid"
 	},
 	"overlays": {
