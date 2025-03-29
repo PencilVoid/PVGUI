@@ -1,0 +1,39 @@
+{
+	"version": 100,
+	"tooltipStyle": {
+		"sprite": "jade_pvgui:pvgui",
+		"padding": [
+			6,
+			6,
+			6,
+			6
+		],
+		"boxProgressColors": {
+			"normal": "#9538DF",
+			"failure": "#EF6479"
+		}
+	},
+	"nestedBoxStyle": {
+		"borderColor": [
+			"#42004E",
+			"#42004E",
+			"#42004E",
+			"#42004E"
+		],
+		"borderWidth": 1
+	},
+	"viewGroupStyle": {
+		"backgroundColor": "#42004E33",
+		"borderColor": [
+			"#42004E33",
+			"#42004E33",
+			"#42004E33",
+			"#42004E33"
+		],
+		"borderWidth": 0.75
+	},
+	"changeOpacity": 1,
+	"changeRoundCorner": false,
+	"autoEnable": true,
+	"lightColorScheme": false
+}
