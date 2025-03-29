@@ -1,6 +1,6 @@
 # PVGUI
 
-Version 0.1.4 for 1.20.2+
+Version 0.1.5 for 1.20.2+
 
 ---
 
@@ -16,6 +16,7 @@ Provides support/compatibility for the following mods:
 - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
 - [Iris](https://modrinth.com/mod/iris)
 - [ItemSwapper](https://modrinth.com/plugin/itemswapper)
+- [Jade](https://modrinth.com/mod/jade)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [Origins](https://modrinth.com/mod/origins)
