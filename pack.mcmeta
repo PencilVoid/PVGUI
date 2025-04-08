@@ -13,6 +13,10 @@
 			{
 				"formats": [16,42],
 				"directory": "overlay_pre_24w44a_empty_slots"
+			},
+			{
+				"formats": [55,55],
+				"directory": "overlay_25w14craftmine"
 			}
 		]
 	}
