@@ -1,0 +1,10 @@
+[
+  {
+    "name": "8BitDo PC Controller",
+    "namespace": "controlify:8bitdo_pc",
+
+    "hids": [
+      [0x2dc8,0x310b], // 8BitDo Ultimate 2 Wireless
+    ]
+  }
+]
