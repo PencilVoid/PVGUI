@@ -1,6 +1,6 @@
 # PVGUI
 
-Version 0.1.6 for 1.20.2+
+Version 0.1.7 for 1.20.2+
 
 ---
 
@@ -9,6 +9,7 @@ Restyles various GUI elements including the in-game HUD. Features occasional pla
 Provides support/compatibility for the following mods:
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
+- [Controlify](https://modrinth.com/mod/controlify)
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [EMI](https://modrinth.com/mod/emi)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
