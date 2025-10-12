@@ -1,6 +1,6 @@
 # PVGUI
 
-Version 0.1.8 for 1.20.2+
+Version 0.1.9 for 1.20.2+
 
 ---
 
