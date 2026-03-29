@@ -1,6 +1,6 @@
 # PVGUI
 
-Version 0.1.9 for 1.20.2+
+Version 0.2.0 for 1.20.2+
 
 ---
 
@@ -9,9 +9,12 @@ Restyles various GUI elements including the in-game HUD. Features occasional pla
 Provides support/compatibility for the following mods:
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
+- [Client Sort](https://modrinth.com/mod/clientsort)
 - [Controlify](https://modrinth.com/mod/controlify)
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [EMI](https://modrinth.com/mod/emi)
+- [Entity Model Features](https://modrinth.com/mod/entitymodelfeatures)
+- [Entity Sound Features](https://modrinth.com/mod/entitysoundfeatures)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [Figura](https://modrinth.com/mod/figura)
 - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
@@ -32,7 +35,7 @@ Unfinished. Leave feedback/suggestions in an [issue](https://github.com/PencilVo
 
 Only supports 1.20.2 and onwards. Versions earlier than 1.20.2 will not be supported.
 
-Recommended for use alongside this resource pack:
+Recommended for use alongside this resource pack (this pack is not endorsed by these creators, I just like their work):
 - [Caxton](https://modrinth.com/mod/caxton)
 - [Atkinson Hyperlegible](https://modrinth.com/resourcepack/atkinson-hyperlegible)
 - [Geometric Font 2](https://modrinth.com/resourcepack/geometric-font-2)

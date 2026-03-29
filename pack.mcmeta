@@ -1,24 +1,23 @@
 {
 	"pack": {
-		"min_format": 16,
-		"max_format": 70,
-
-		"pack_format": 70,
-		"supported_formats": [16,64],
+		"min_format": 17,
+		"max_format": 84,
+		"pack_format": 84,
+		"supported_formats": [17, 64],
 		"description": "Created by PencilVoid"
 	},
 	"overlays": {
 		"entries": [
 			{
-				"formats": [16,27],
+				"formats": [17, 27],
 				"directory": "overlay_pre_1.20.5_ui"
 			},
 			{
-				"formats": [16,42],
+				"formats": [17, 42],
 				"directory": "overlay_pre_24w44a_empty_slots"
 			},
 			{
-				"formats": [55,55],
+				"formats": [55, 55],
 				"directory": "overlay_25w14craftmine"
 			}
 		]
