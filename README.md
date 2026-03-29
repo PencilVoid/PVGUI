@@ -41,4 +41,5 @@ Recommended for use alongside this resource pack (this pack is not endorsed by t
 - [Geometric Font 2](https://modrinth.com/resourcepack/geometric-font-2)
 - [Lithos:Font](https://modrinth.com/resourcepack/lithosfont)
 
-![pvgui_showcase_hud](https://github.com/user-attachments/assets/28cf4f3e-0275-4eac-857d-fd3232a6a5bb)
+<img width="1363" height="698" alt="pvgui_showcase_hud_2" src="https://github.com/user-attachments/assets/6cea85fe-2956-4274-8df9-a5573c6c5053" />
+
