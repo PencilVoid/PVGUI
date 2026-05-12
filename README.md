@@ -1,12 +1,13 @@
 # PVGUI
 
-Version 0.2.0 for 1.20.2+
+Version 0.2.1 for 1.20.2+
 
 ---
 
 Restyles various GUI elements including the in-game HUD. Features occasional plants.
 
 Provides support/compatibility for the following mods:
+
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
 - [Client Sort](https://modrinth.com/mod/clientsort)
@@ -36,6 +37,7 @@ Unfinished. Leave feedback/suggestions in an [issue](https://github.com/PencilVo
 Only supports 1.20.2 and onwards. Versions earlier than 1.20.2 will not be supported.
 
 Recommended for use alongside this resource pack (this pack is not endorsed by these creators, I just like their work):
+
 - [Caxton](https://modrinth.com/mod/caxton)
 - [Atkinson Hyperlegible](https://modrinth.com/resourcepack/atkinson-hyperlegible)
 - [Geometric Font 2](https://modrinth.com/resourcepack/geometric-font-2)
