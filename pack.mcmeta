@@ -1,9 +1,9 @@
 {
 	"pack": {
 		"min_format": 17,
-		"max_format": 84,
+		"max_format": 87,
 		"pack_format": 64,
-		"supported_formats": [17, 84],
+		"supported_formats": [17, 87],
 		"description": "Created by PencilVoid"
 	},
 	"overlays": {
