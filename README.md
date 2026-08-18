@@ -17,6 +17,7 @@ Provides support/compatibility for the following mods:
 - [Entity Model Features](https://modrinth.com/mod/entitymodelfeatures)
 - [Entity Sound Features](https://modrinth.com/mod/entitysoundfeatures)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
 - [Figura](https://modrinth.com/mod/figura)
 - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
 - [Iris](https://modrinth.com/mod/iris)
