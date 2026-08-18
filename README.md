@@ -29,6 +29,7 @@ Provides support/compatibility for the following mods:
 - [Raised](https://modrinth.com/mod/raised)
 - [Sidekick](https://modrinth.com/plugin/sidekick)
 - [WTHIT](https://modrinth.com/mod/wthit)
+- [Xaero's Minmap](https://modrinth.com/mod/xaeros-minimap)
 
 Check out the [gallery](https://modrinth.com/resourcepack/pvgui/gallery) at Modrinth.
 
